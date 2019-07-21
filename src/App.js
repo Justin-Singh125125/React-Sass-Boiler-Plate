@@ -1,7 +1,7 @@
 import React from "react";
 import Home from "./pages/Home";
 import { Route, Switch } from "react-router-dom";
-import "./App.scss";
+import "./assets/css/main.scss";
 
 
 const App = () => {
